@@ -1,0 +1,90 @@
+NOTICE  2023-10-15 16:33:13.7673 Log started
+NOTICE  2023-10-15 16:33:13.7684 P2Pool v3.7 (built with GCC/12.2.1 on Sep 30 2023)
+NOTICE  2023-10-15 16:33:13.7686 Util UPnP: Started scanning for UPnP IGD devices
+NOTICE  2023-10-15 16:33:13.7696 SideChain network type  = mainnet
+NOTICE  2023-10-15 16:33:13.7696 SideChain using default config
+NOTICE  2023-10-15 16:33:13.7696 SideChain pool name     = default
+NOTICE  2023-10-15 16:33:13.7696 SideChain block time    = 10 seconds
+NOTICE  2023-10-15 16:33:13.7696 SideChain min diff      = 100000
+NOTICE  2023-10-15 16:33:13.7696 SideChain PPLNS window  = 2160 blocks
+NOTICE  2023-10-15 16:33:13.7696 SideChain uncle penalty = 20%
+NOTICE  2023-10-15 16:33:13.7696 SideChain generating consensus ID
+NOTICE  2023-10-15 16:33:13.7696 SideChain consensus ID = 22af7ee7************************************************4407f918
+WARNING 2023-10-15 16:33:13.7751 RandomX_Hasher couldn't allocate RandomX dataset using large pages
+WARNING 2023-10-15 16:33:13.7753 RandomX_Hasher couldn't allocate RandomX cache using large pages
+WARNING 2023-10-15 16:33:13.7756 RandomX_Hasher couldn't allocate RandomX cache using large pages
+NOTICE  2023-10-15 16:33:13.7757 RandomX_Hasher allocated 2592 MB
+NOTICE  2023-10-15 16:33:13.7767 ConsoleCommands uv_guess_handle returned 14
+NOTICE  2023-10-15 16:33:13.7767 ConsoleCommands processing stdin as UV_TTY
+NOTICE  2023-10-15 16:33:13.7769 TCPServer listening on 127.0.0.1:56828
+NOTICE  2023-10-15 16:33:13.7771 ConsoleCommands event loop started
+ERROR   2023-10-15 16:33:13.7777 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:13.7780 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+NOTICE  2023-10-15 16:33:14.7698 Util UPnP: Finished scanning for UPnP IGD devices
+ERROR   2023-10-15 16:33:14.7783 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:14.7785 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+ERROR   2023-10-15 16:33:15.7791 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:15.7793 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+ERROR   2023-10-15 16:33:16.7800 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:16.7802 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+ERROR   2023-10-15 16:33:17.7807 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:17.7809 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+ERROR   2023-10-15 16:33:18.7815 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:18.7817 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+ERROR   2023-10-15 16:33:19.7824 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:19.7826 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+ERROR   2023-10-15 16:33:20.7831 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:20.7833 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+ERROR   2023-10-15 16:33:21.7836 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:21.7836 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+ERROR   2023-10-15 16:33:22.7843 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:22.7846 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+NOTICE  2023-10-15 16:33:23.7850 P2Pool caught SIGINT
+NOTICE  2023-10-15 16:33:23.7851 P2Pool stopping
+NOTICE  2023-10-15 16:33:23.7854 ConsoleCommands event loop stopped
+NOTICE  2023-10-15 16:33:23.7855 TCPServer stopped
+ERROR   2023-10-15 16:33:23.7861 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:23.7863 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+NOTICE  2023-10-15 16:33:23.7864 P2Pool uv_run exited, result = 0
+NOTICE  2023-10-15 16:33:23.7864 P2Pool stopped
+NOTICE  2023-10-15 16:33:23.7872 RandomX_Hasher stopped
+NOTICE  2023-10-15 16:33:23.7876 Log stopped
+NOTICE  2023-10-15 16:33:47.7404 Log started
+NOTICE  2023-10-15 16:33:47.7409 P2Pool v3.7 (built with GCC/12.2.1 on Sep 30 2023)
+NOTICE  2023-10-15 16:33:47.7409 Util UPnP: Started scanning for UPnP IGD devices
+NOTICE  2023-10-15 16:33:47.7412 SideChain network type  = mainnet
+NOTICE  2023-10-15 16:33:47.7412 SideChain using default config
+NOTICE  2023-10-15 16:33:47.7412 SideChain pool name     = default
+NOTICE  2023-10-15 16:33:47.7412 SideChain block time    = 10 seconds
+NOTICE  2023-10-15 16:33:47.7412 SideChain min diff      = 100000
+NOTICE  2023-10-15 16:33:47.7412 SideChain PPLNS window  = 2160 blocks
+NOTICE  2023-10-15 16:33:47.7412 SideChain uncle penalty = 20%
+NOTICE  2023-10-15 16:33:47.7412 SideChain generating consensus ID
+NOTICE  2023-10-15 16:33:47.7412 SideChain consensus ID = 22af7ee7************************************************4407f918
+WARNING 2023-10-15 16:33:47.7425 RandomX_Hasher couldn't allocate RandomX dataset using large pages
+WARNING 2023-10-15 16:33:47.7426 RandomX_Hasher couldn't allocate RandomX cache using large pages
+WARNING 2023-10-15 16:33:47.7426 RandomX_Hasher couldn't allocate RandomX cache using large pages
+NOTICE  2023-10-15 16:33:47.7427 RandomX_Hasher allocated 2592 MB
+NOTICE  2023-10-15 16:33:47.7431 ConsoleCommands uv_guess_handle returned 14
+NOTICE  2023-10-15 16:33:47.7431 ConsoleCommands processing stdin as UV_TTY
+NOTICE  2023-10-15 16:33:47.7431 TCPServer listening on 127.0.0.1:61509
+NOTICE  2023-10-15 16:33:47.7432 ConsoleCommands event loop started
+ERROR   2023-10-15 16:33:47.7433 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:47.7434 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+NOTICE  2023-10-15 16:33:48.7427 Util UPnP: Finished scanning for UPnP IGD devices
+ERROR   2023-10-15 16:33:48.7438 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:48.7440 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+ERROR   2023-10-15 16:33:49.7442 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:49.7443 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+ERROR   2023-10-15 16:33:50.7449 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:50.7451 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+NOTICE  2023-10-15 16:33:51.7455 P2Pool caught SIGINT
+NOTICE  2023-10-15 16:33:51.7455 P2Pool stopping
+NOTICE  2023-10-15 16:33:51.7458 ConsoleCommands event loop stopped
+NOTICE  2023-10-15 16:33:51.7459 TCPServer stopped
+ERROR   2023-10-15 16:33:51.7462 JSONRPCRequest uv_poll_start returned error EBADF
+WARNING 2023-10-15 16:33:51.7465 P2Pool get_info RPC request to host 127.0.0.1:18081:ZMQ:18083 failed: error Error (empty response), trying again in 1 second
+NOTICE  2023-10-15 16:33:51.7465 P2Pool uv_run exited, result = 0
+NOTICE  2023-10-15 16:33:51.7465 P2Pool stopped
+NOTICE  2023-10-15 16:33:51.7472 RandomX_Hasher stopped
+NOTICE  2023-10-15 16:33:51.7475 Log stopped
